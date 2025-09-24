@@ -1,0 +1,4 @@
+streamlit
+tavily
+python-dotenv
+matplotlib
