@@ -1,4 +1,5 @@
 streamlit
-tavily
-python-dotenv
 matplotlib
+python-dotenv
+tavily-python
+
